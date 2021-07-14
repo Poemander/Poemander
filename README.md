@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Poemander
+- 👀 I’m interested in Coding Pyhton, Smart Contracts and other handy stuff
+- 🌱 I’m currently learning Python
+- 📫 thoth.unified@gmail.com
